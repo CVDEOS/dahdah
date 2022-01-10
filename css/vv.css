@@ -1,0 +1,13 @@
+.dh{
+    text-align: center;
+    
+}
+.vv{
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    text-align: center;
+    background-color: rgb(51, 255, 0);
+
+}
